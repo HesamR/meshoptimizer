@@ -1,0 +1,11 @@
+.{
+	.name = "meshoptimizer",
+	.version = "0.20.0",
+	.paths = .{
+		"src",
+		"c-src",
+		"build.zig",
+		"build.zig.zon",
+		"LICENSE",
+	},
+}
